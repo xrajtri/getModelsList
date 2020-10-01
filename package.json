@@ -1,0 +1,14 @@
+{
+  "name": "getmodelslist",
+  "version": "1.0.0",
+  "description": "AWS Lambda function code to get all the models list of vehicle from https://vpic.nhtsa.dot.gov/api/vehicles API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
